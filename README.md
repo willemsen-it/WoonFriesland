@@ -1,10 +1,9 @@
 # Base deployment for a new Test Environment
+# To get URL for json file click on the script and then on RAW
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fwillemsen-it%2FWoonFriesland%2Fmaster%2Fdeploy-testenv.json" target="_blank">
-   # RAW URL https://raw.githubusercontent.com/willemsen-it/WoonFriesland/master/deploy-testenv.json
    <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
-
 <a href="http://armviz.io/#/?load=https%3A%2F%2github.com%2Fwillemsen-it%2FWoonFriesland%2Fblob%2Fmaster%2Fdeploy-testenv.json" target="_blank">
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
