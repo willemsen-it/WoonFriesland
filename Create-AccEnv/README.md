@@ -1,4 +1,4 @@
-# Base deployment for a new Test Environment
+# Basis voor een nieuwe Acceptatie omgeving
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fwillemsen-it%2FWoonFriesland%2Fmaster%2FCreate-AccEnv%2Fdeploy-testenv.json" target="_blank">
    <img src="http://azuredeploy.net/deploybutton.png"/>
@@ -7,4 +7,4 @@
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
-This template allows you to deploy a storageaccount and network object for use in a new test environment
+Gebruik deze template om een nieuw storageaccount en netwerk aan te maken t.b.v. een nieuwe acceptatie omgeving
