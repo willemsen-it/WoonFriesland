@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Deploy a storageaccount and vnet (network)",
+  "description": "This template allows you to deploy a storageaccount and network object for use in a new test environment",
+  "summary": "This template takes a minimum amount of parameters and deploys a storageaccount and vnet",
+  "githubUsername": "bmoore-msft",
+  "dateUpdated": "2016-10-06"
+}
